@@ -8,3 +8,5 @@ set shiftwidth=2
 inoremap {<CR> {<CR>}<C-o>O
 set foldmethod=syntax
 nnoremap <space> za
+nmap <S-Enter> O<Esc>j
+nmap <CR> o<Esc>k
