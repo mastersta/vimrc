@@ -19,5 +19,5 @@ nnoremap <space> za
 nmap <S-Enter> O<Esc>j
 nmap <CR> o<Esc>k
 
-"I don't remember what this does
+"Adds an end bracket when an open braket is inserted
 inoremap {<CR> {<CR>}<C-o>O
