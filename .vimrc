@@ -21,3 +21,6 @@ nmap <CR> o<Esc>k
 
 "I don't remember what this does
 inoremap {<CR> {<CR>}<C-o>O
+
+"remove line wrapping
+set nowrap
