@@ -24,3 +24,6 @@ inoremap {<CR> {<CR>}<C-o>O
 
 "remove line wrapping
 set nowrap
+
+syntax on
+
