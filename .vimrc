@@ -55,3 +55,5 @@ filetype plugin indent on
 augroup filetypedetect
   au BufNewFile,BufRead *.s,*.inc,*.asm set ft=asm_ca65
 augroup END
+
+syntax on
