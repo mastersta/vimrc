@@ -45,6 +45,8 @@ call plug#begin('~/.vim/plugged')
 Plug 'tpope/vim-sensible'
 Plug 'Freedzone/kerbovim'
 Plug 'ervandew/supertab'
+Plug 'Yggdroot/indentLine'
+
 
 call plug#end()
 
